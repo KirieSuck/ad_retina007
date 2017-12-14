@@ -373,6 +373,8 @@ gamersky.com##[class="ymw-tab-two ymw-tab-two-sty1 ymwTab mb8"]
 gamersky.com##[class="ymw-backtotop cur"]
 gamersky.com##[class="ymw-footer"]
 gamersky.com##[class="ymw-rel-mgame"]
+hs.blizzard.cn##[class="weibo"]
+hs.blizzard.cn##[class="scrolltop"]
 bbs.feng.com##.layui-m-layershade
 bbs.feng.com##.layui-m-layerchild.layui-m-layer-footer.layui-m-anim-up
 bbs.feng.com##.posi-fixed-btn
