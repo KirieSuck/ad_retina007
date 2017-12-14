@@ -376,7 +376,7 @@ gamersky.com##[class="ymw-rel-mgame"]
 hs.blizzard.cn##[class="weibo"]
 hs.blizzard.cn##[class="scrolltop"]
 m.kekenet.com##[class="bottomlink"]
-m.iask.sina.com.cn##[class="foot-plan"]
+m.iask.sina.com.cn##[class="top-an"]
 bbs.feng.com##.layui-m-layershade
 bbs.feng.com##.layui-m-layerchild.layui-m-layer-footer.layui-m-anim-up
 bbs.feng.com##.posi-fixed-btn
