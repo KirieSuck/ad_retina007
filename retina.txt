@@ -366,7 +366,6 @@ baidu.com###gh-safariicon-container
 baidu.com##.gh-safari-btn
 baidu.com##section#s_index_body
 baidu.com##div[mip-custom-container]
-baidu.com##div[id="logo"]
 baidu.com##div[id="userinfo-wrap"]
 gamersky.com##[class="ymw-hotgame mb8"]
 gamersky.com##[class="ymw-tab-two ymw-tab-two-sty1 ymwTab mb8"]
