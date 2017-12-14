@@ -368,7 +368,7 @@ baidu.com##section#s_index_body
 baidu.com##div[mip-custom-container]
 baidu.com##div[id="userinfo-wraps"]
 gamersky.com##[class="ymw-title-lev2 mt8"]
-gamersky.com##[class="ymw-hotgame.mb8"]
+gamersky.com##[class="ymw-hotgame mb8"]
 bbs.feng.com##.layui-m-layershade
 bbs.feng.com##.layui-m-layerchild.layui-m-layer-footer.layui-m-anim-up
 bbs.feng.com##.posi-fixed-btn
