@@ -366,9 +366,6 @@ baidu.com###gh-safariicon-container
 baidu.com##.gh-safari-btn
 baidu.com##section#s_index_body
 baidu.com##div[mip-custom-container]
-! baidu.com##a.index-banner
-! baidu.com##index-banner-text
-! baidu.com##div[id="userinfo-wrap"]
 baidu.com##div[id="userinfo-wraps"]
 bbs.feng.com##.layui-m-layershade
 bbs.feng.com##.layui-m-layerchild.layui-m-layer-footer.layui-m-anim-up
