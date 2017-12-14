@@ -367,8 +367,7 @@ baidu.com##.gh-safari-btn
 baidu.com##section#s_index_body
 baidu.com##div[mip-custom-container]
 baidu.com##a.index-banner
-baidu.com##a.index-banner-text
-##[class="index-banner-text"]
+baidu.com##index-banner-text
 bbs.feng.com##.layui-m-layershade
 bbs.feng.com##.layui-m-layerchild.layui-m-layer-footer.layui-m-anim-up
 bbs.feng.com##.posi-fixed-btn
