@@ -368,6 +368,7 @@ baidu.com##section#s_index_body
 baidu.com##div[mip-custom-container]
 baidu.com##div[id="header"]
 baidu.com##div[class="weather-shield"]
+baidu.com##div[class="menu-container"]
 baidu.com##div[id="logo"]
 gamersky.com##[class="ymw-hotgame mb8"]
 gamersky.com##[class="ymw-tab-two ymw-tab-two-sty1 ymwTab mb8"]
