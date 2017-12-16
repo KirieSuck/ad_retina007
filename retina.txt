@@ -1,4 +1,4 @@
-! Version:2017/12/16/17:30
+! Version:2017/12/16/17:40
 ! Title:Easy Safari
 ! Author:秋杪菁夕
 ! Description:广告猎手反馈QQ群:514536444.
