@@ -1,4 +1,4 @@
-! Version:2017/12/17/14:22
+! Version:2017/12/17/14:26
 ! Title:Easy caoliu
 ! Author:long
 
@@ -12,7 +12,7 @@
 ##img[src^="http://wx2.sinaimg.cn/"]
 ##img[src^="http://b.piclect.com/"]
 
-##a[href^="http://www.viidii.info/"]
+##a[href^=""]
 
 
 cl.hoqe.pw##div[class="tips"]
