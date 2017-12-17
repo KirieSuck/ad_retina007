@@ -1,4 +1,4 @@
-! Version:2017/12/17/15:23
+! Version:2017/12/17/15:28
 ! Title:Easy caoliu
 ! Author:long
 
@@ -14,7 +14,34 @@
 
 
 
+
+
+##a[href^="http://www.viidii.info/?http://a"]
+##a[href^="http://www.viidii.info/?http://b"]
+##a[href^="http://www.viidii.info/?http://c"]
+##a[href^="http://www.viidii.info/?http://e"]
 ##a[href^="http://www.viidii.info/?http://f"]
+##a[href^="http://www.viidii.info/?http://g"]
+##a[href^="http://www.viidii.info/?http://h"]
+##a[href^="http://www.viidii.info/?http://i"]
+##a[href^="http://www.viidii.info/?http://j"]
+##a[href^="http://www.viidii.info/?http://k"]
+##a[href^="http://www.viidii.info/?http://l"]
+##a[href^="http://www.viidii.info/?http://m"]
+##a[href^="http://www.viidii.info/?http://n"]
+##a[href^="http://www.viidii.info/?http://o"]
+##a[href^="http://www.viidii.info/?http://p"]
+##a[href^="http://www.viidii.info/?http://q"]
+##a[href^="http://www.viidii.info/?http://r"]
+##a[href^="http://www.viidii.info/?http://s"]
+##a[href^="http://www.viidii.info/?http://t"]
+##a[href^="http://www.viidii.info/?http://u"]
+##a[href^="http://www.viidii.info/?http://v"]
+##a[href^="http://www.viidii.info/?http://w"]
+##a[href^="http://www.viidii.info/?http://x"]
+##a[href^="http://www.viidii.info/?http://y"]
+##a[href^="http://www.viidii.info/?http://z"]
+
 
 ##a[href^="http://www.viidii.info/?http://0"]
 ##a[href^="http://www.viidii.info/?http://1"]
