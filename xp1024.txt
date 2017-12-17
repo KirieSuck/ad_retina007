@@ -1,4 +1,4 @@
-! Version:2017/12/17/16:50
+! Version:2017/12/17/17:00
 ! Title:Easy xp1024
 ! Author:long
 
@@ -7,3 +7,4 @@
 y3.vtx9c.pw##div[class="t"]
 y3.vtx9c.pw##center[class="gray"]
 y3.vtx9c.pw##div[id="footer"]
+y3.vtx9c.pw##tr[class="tr1 r_one"]
