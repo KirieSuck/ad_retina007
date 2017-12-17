@@ -1,8 +1,13 @@
-! Version:2017/12/17/16:22
+! Version:2017/12/17/18:05
 ! Title:Easy caoliu
 ! Author:long
 
-##img[src^="https://www1.wi.to"]
+! 避免动漫区
+##img[src="https://www1.wi.to/2017/11/09/a1b45005bda18472821222856c6d4f99.gif"]
+##img[src="https://www1.wi.to/2017/09/03/10f8f612f9339adf4a5ddf238067afd4.gif"]
+##img[src="https://www1.wi.to/2017/07/09/4989f39974a1323e226668f7aff7d1f4.gif"]
+
+
 ##img[src^="http://www.srimg.com"]
 ##img[src^="http://69.28.57.245:999/"]
 ##img[src^="http://dioimg.net/"]
