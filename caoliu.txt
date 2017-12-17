@@ -1,4 +1,4 @@
-! Version:2017/12/17/14:01
+! Version:2017/12/17/14:14
 ! Title:Easy caoliu
 ! Author:long
 
@@ -8,9 +8,13 @@
 ##img[src^="http://dioimg.net/"]
 ##img[src^="http://img588.net/"]
 ##img[src^="http://e.piclect.com/"]
-##img[src^="https://www1.wi.to"]
-##img[src^="https://www1.wi.to"]
-##img[src^="https://www1.wi.to"]
+##img[src^="http://wx4.sinaimg.cn/"]
+##img[src^="http://wx2.sinaimg.cn/"]
+##img[src^="http://b.piclect.com/"]
+
+##a[href^="http://www.viidii.info/"]
+##a[href^=""]
+##a[href^=""]
 
 cl.hoqe.pw##div[class="tips"]
 cl.hoqe.pw##span[class="f24"]
