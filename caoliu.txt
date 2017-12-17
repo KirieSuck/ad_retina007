@@ -6,7 +6,7 @@
 ##img[src^="http://www.srimg.com"]
 ##img[src^="http://69.28.57.245:999/"]
 ##img[src^="http://dioimg.net/"]
-##img[src^="http://img588.net/"]
+##img[src^="no_http://img588.net/"]
 ##img[src^="http://e.piclect.com/"]
 ##img[src^="http://wx4.sinaimg.cn/"]
 ##img[src^="http://wx2.sinaimg.cn/"]
