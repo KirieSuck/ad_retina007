@@ -2,7 +2,7 @@
 ! Title:Easy caoliu
 ! Author:long
 
-##img[src="https://www1.wi.to/"]
+##img[src="https://www1.wi.to"]
 
 cl.hoqe.pw##div[class="tips"]
 cl.hoqe.pw##span[class="f24"]
