@@ -1,4 +1,4 @@
-! Version:2017/12/17/17:53
+! Version:2017/12/17/18:25
 ! Title:Easy Safari
 ! Author:long
 ! Description:QQ
@@ -372,6 +372,9 @@ baidu.com##div[class="menu-container"]
 baidu.com##a[id="weather"]
 baidu.com##div[class="weather-shield"]
 baidu.com##div[class="callicon-wrap"]
+
+google.com##div[class="fbar _GR _QAi"]
+
 gamersky.com##[class="ymw-hotgame mb8"]
 gamersky.com##[class="ymw-tab-two ymw-tab-two-sty1 ymwTab mb8"]
 gamersky.com##[class="ymw-backtotop cur"]
