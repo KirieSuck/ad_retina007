@@ -1,4 +1,4 @@
-! Version:2017/12/17/17:23
+! Version:2017/12/17/17:53
 ! Title:Easy Safari
 ! Author:long
 ! Description:QQ
@@ -380,7 +380,6 @@ gamersky.com##[class="ymw-rel-mgame"]
 
 hs.blizzard.cn##[class="weibo"]
 hs.blizzard.cn##[class="scrolltop"]
-hs.blizzard.cn##div[class="home_pop_app app_download"]
 
 m.kekenet.com##[class="bottomlink"]
 m.iask.sina.com.cn##div[id="top-suspension"]
