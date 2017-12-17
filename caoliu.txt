@@ -2,7 +2,15 @@
 ! Title:Easy caoliu
 ! Author:long
 
-cl.hoqe.pw##img[src^="https://www1.wi.to"]
+##img[src^="https://www1.wi.to"]
+##img[src^="http://www.srimg.com"]
+##img[src^="http://69.28.57.245:999/"]
+##img[src^="http://dioimg.net/"]
+##img[src^="http://img588.net/"]
+##img[src^="http://e.piclect.com/"]
+##img[src^="https://www1.wi.to"]
+##img[src^="https://www1.wi.to"]
+##img[src^="https://www1.wi.to"]
 
 cl.hoqe.pw##div[class="tips"]
 cl.hoqe.pw##span[class="f24"]
