@@ -26,7 +26,7 @@
 ##a[href*="http://www.viidii.info/?https://7"]
 ##a[href*="http://www.viidii.info/?https://8"]
 ##a[href*="http://www.viidii.info/?https://9"]
-##a[href^="http://www.viidii.info/?https://f"]
+##a[href*="http://www.viidii.info/?https://f"]
 
 
 cl.hoqe.pw##div[class="tips"]
