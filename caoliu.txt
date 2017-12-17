@@ -1,4 +1,4 @@
-! Version:2017/12/17/15:21
+! Version:2017/12/17/15:23
 ! Title:Easy caoliu
 ! Author:long
 
@@ -16,6 +16,16 @@
 
 ##a[href^="http://www.viidii.info/?http://f"]
 
+##a[href^="http://www.viidii.info/?http://0"]
+##a[href^="http://www.viidii.info/?http://1"]
+##a[href^="http://www.viidii.info/?http://2"]
+##a[href^="http://www.viidii.info/?http://3"]
+##a[href^="http://www.viidii.info/?http://4"]
+##a[href^="http://www.viidii.info/?http://5"]
+##a[href^="http://www.viidii.info/?http://6"]
+##a[href^="http://www.viidii.info/?http://7"]
+##a[href^="http://www.viidii.info/?http://8"]
+##a[href^="http://www.viidii.info/?http://9"]
 
 
 cl.hoqe.pw##div[class="tips"]
