@@ -1,7 +1,7 @@
-! Version:2017/12/16/17:46
+! Version:2017/12/17/17:23
 ! Title:Easy Safari
-! Author:秋杪菁夕
-! Description:广告猎手反馈QQ群:514536444.
+! Author:long
+! Description:QQ
 !--------------------------------------------!
 ##img[src="http://hjfmo.chuchenqitl.com/cy/logo.png"]
 ##img[src="https://static.huxiucdn.com/m/image/moment_ad_banner.png"]
@@ -377,8 +377,11 @@ gamersky.com##[class="ymw-tab-two ymw-tab-two-sty1 ymwTab mb8"]
 gamersky.com##[class="ymw-backtotop cur"]
 gamersky.com##[class="ymw-footer"]
 gamersky.com##[class="ymw-rel-mgame"]
+
 hs.blizzard.cn##[class="weibo"]
 hs.blizzard.cn##[class="scrolltop"]
+hs.blizzard.cn##div[class="home_pop_app app_download"]
+
 m.kekenet.com##[class="bottomlink"]
 m.iask.sina.com.cn##div[id="top-suspension"]
 bbs.feng.com##.layui-m-layershade
