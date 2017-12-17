@@ -373,6 +373,9 @@ baidu.com##a[id="weather"]
 baidu.com##div[class="weather-shield"]
 baidu.com##div[class="callicon-wrap"]
 
+baidu.com##div[class="result c-result"]
+baidu.com##div[class="c-result result c-clk-recommend"]
+
 google.com##div[class="fbar _GR _QAi"]
 
 gamersky.com##[class="ymw-hotgame mb8"]
