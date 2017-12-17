@@ -1,8 +1,8 @@
-! Version:2017/12/17/13:46
+! Version:2017/12/17/13:59
 ! Title:Easy caoliu
 ! Author:long
 
-##img[src="https://www1.wi.to/2017/11/09/a1b45005bda18472821222856c6d4f99.gif"]
+cl.hoqe.pw##img[src="https://www1.wi.to/2017/11/09/a1b45005bda18472821222856c6d4f99.gif"]
 
 cl.hoqe.pw##div[class="tips"]
 cl.hoqe.pw##span[class="f24"]
