@@ -1,4 +1,4 @@
-! Version:2017/12/17/18:05
+! Version:2017/12/17/18:10
 ! Title:Easy caoliu
 ! Author:long
 
@@ -7,8 +7,10 @@
 ##img[src="https://www1.wi.to/2017/09/03/10f8f612f9339adf4a5ddf238067afd4.gif"]
 ##img[src="https://www1.wi.to/2017/07/09/4989f39974a1323e226668f7aff7d1f4.gif"]
 
+! 避免无码区
+##img[src="http://www.srimg.com/u/20171209/08243260.gif"]
 
-##img[src^="http://www.srimg.com"]
+
 ##img[src^="http://69.28.57.245:999/"]
 ##img[src^="http://dioimg.net/"]
 ##img[src="http://img588.net/images/2016/04/18/2016-0418-880-70ccd55.gif"]
