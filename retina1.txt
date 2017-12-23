@@ -1,9 +1,21 @@
-! Version:2017/12/23/19:10
+! Version:2017/12/23/19:40
 ! Title:My safari
 ! Author:long
 ! Description:QQ
 !--------------------------------------------!
 
+baidu.com##div[id="logo"]
+baidu.com##div[id="skin-wrap"]
+baidu.com##div[id="navs"]
+baidu.com##div[class="hotword"]
+
+baidu.com##div[class="menu-container"]
+baidu.com##a[id="weather"]
+
+baidu.com##div[class="callicon-wrap"]
+baidu.com##div[class="blank-frame"]
+
+baidu.com##div[id="userinfo-wraps"]
 
 google.com##div[class="fbar _GR _QAi"]
 
