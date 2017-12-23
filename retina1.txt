@@ -12,6 +12,7 @@ baidu.com##div[class="hotword"]
 baidu.com##div[class="menu-container"]
 baidu.com##a[id="weather"]
 
+
 baidu.com##div[class="callicon-wrap"]
 baidu.com##div[class="blank-frame"]
 
