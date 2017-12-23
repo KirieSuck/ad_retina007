@@ -1,4 +1,4 @@
-! Version:2017/12/23/17:35
+! Version:2017/12/23/17:40
 ! Title:Easy Safari
 ! Author:long
 ! Description:QQ
@@ -376,6 +376,7 @@ baidu.com##a[id="weather"]
 baidu.com##div[class="weather-shield"]
 baidu.com##div[class="callicon-wrap"]
 baidu.com##div[class="blank-frame"]
+baidu.com##div[class="hotword"]
 
 google.com##div[class="fbar _GR _QAi"]
 
