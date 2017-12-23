@@ -1,4 +1,4 @@
-! Version:2017/12/23/17:30
+! Version:2017/12/23/17:35
 ! Title:Easy Safari
 ! Author:long
 ! Description:QQ
@@ -367,6 +367,9 @@ baidu.com##.gh-safari-btn
 baidu.com##section#s_index_body
 baidu.com##div[mip-custom-container]
 baidu.com##div[id="logo"]
+baidu.com##div[id="skin-wrap"]
+baidu.com##div[id="navs"]
+
 baidu.com##div[id="userinfo-wraps"]
 baidu.com##div[class="menu-container"]
 baidu.com##a[id="weather"]
