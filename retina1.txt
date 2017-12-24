@@ -1,4 +1,4 @@
-! Version:2017/12/24/11:40
+! Version:2017/12/24/11:41
 ! Title:My safari
 ! Author:long
 ! Description:QQ
@@ -32,3 +32,4 @@ m.iask.sina.com.cn##div[id="top-suspension"]
 
 nba-stream.com##div[id="propis"]
 nba-stream.com##div[class="mask"]
+nba-stream.com##div[id="header"]
