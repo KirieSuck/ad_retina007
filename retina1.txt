@@ -1,4 +1,4 @@
-! Version:2017/12/24/11:55
+! Version:2017/12/24/12:05
 ! Title:My safari
 ! Author:long
 ! Description:QQ
@@ -35,4 +35,4 @@ nba-stream.com##div[class="mask"]
 nba-stream.com##div[id="header"]
 nba-stream.com##div[id="taplay"]
 nba-stream.com##p[class="wait-notice"]
-
+nba-stream.com##div[class="misspelled"]
