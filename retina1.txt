@@ -29,7 +29,8 @@ gamersky.com##header[class="ymw-header2017"]
 hs.blizzard.cn##[class="weibo"]
 hs.blizzard.cn##[class="scrolltop"]
 
-m.kekenet.com##[class="bottomlink"]
+kekenet.com##[class="bottomlink"]
+kekenet.com##div[class="top-Adv"]
 m.iask.sina.com.cn##div[id="top-suspension"]
 
 nba-stream.com##div[id="propis"]
