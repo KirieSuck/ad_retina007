@@ -1,4 +1,4 @@
-! Version:2018/01/13/12:40
+! Version:2018/01/13/12:45
 ! Title:My safari
 ! Author:long
 ! Description:QQ
@@ -21,7 +21,6 @@ google.com##div[class="fbar _GR _QAi"]
 gamersky.com##[class="ymw-hotgame mb8"]
 gamersky.com##[class="ymw-tab-two ymw-tab-two-sty1 ymwTab mb8"]
 gamersky.com##[class="ymw-backtotop cur"]
-gamersky.com##[class="ymw-footer"]
 gamersky.com##[class="ymw-rel-mgame"]
 gamersky.com##section[class="ywm-header-img"]
 gamersky.com##header[class="ymw-header2017"]
