@@ -1,4 +1,4 @@
-! Version:2018/04/15/22:26
+! Version:2018/04/15/22:30
 ! Title:My safari
 ! Author:long
 ! Description:QQ
@@ -17,6 +17,8 @@ baidu.com##div[class="callicon-wrap"]
 baidu.com##div[id="userinfo-wraps"]
 
 baidu.com##div[class="page-banner"]
+baidu.com##div[class="se-head-logo"]
+
 
 google.com##div[class="fbar _GR _QAi"]
 
