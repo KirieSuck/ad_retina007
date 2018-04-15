@@ -18,6 +18,7 @@ baidu.com##div[id="userinfo-wraps"]
 
 baidu.com##div[class="page-banner"]
 baidu.com##div[class="se-head-logo"]
+baidu.com##div[class="se-page-copyright"]
 
 
 google.com##div[class="fbar _GR _QAi"]
