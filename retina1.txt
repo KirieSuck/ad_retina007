@@ -16,6 +16,8 @@ baidu.com##div[class="blank-frame"]
 baidu.com##div[class="callicon-wrap"]
 baidu.com##div[id="userinfo-wraps"]
 
+baidu.com##div[class="page-banner"]
+
 google.com##div[class="fbar _GR _QAi"]
 
 gamersky.com##[class="ymw-hotgame mb8"]
